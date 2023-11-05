@@ -1,0 +1,18 @@
+﻿  kik.cpp
+C:\Users\Janusz\source\repos\kik\kik\kik.cpp(9,18): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\Janusz\source\repos\kik\kik\kik.cpp(10,18): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\Janusz\source\repos\kik\kik\kik.cpp(12,17): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\Janusz\source\repos\kik\kik\kik.cpp(13,17): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\Janusz\source\repos\kik\kik\kik.cpp(14,17): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\Janusz\source\repos\kik\kik\kik.cpp(15,17): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\Janusz\source\repos\kik\kik\kik.cpp(17,18): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\Janusz\source\repos\kik\kik\kik.cpp(18,19): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\Janusz\source\repos\kik\kik\kik.cpp(19,19): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\Janusz\source\repos\kik\kik\kik.cpp(20,19): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\Janusz\source\repos\kik\kik\kik.cpp(21,19): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\Janusz\source\repos\kik\kik\kik.cpp(23,19): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\Janusz\source\repos\kik\kik\kik.cpp(24,19): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\Janusz\source\repos\kik\kik\kik.cpp(25,19): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\Janusz\source\repos\kik\kik\kik.cpp(433,17): warning C4566: znak przedstawiony przez nazwę zawierającą znaki uniwersalne "\u00C3" nie może być przedstawiony w bieżącej stronie kodowej (1250)
+C:\Users\Janusz\source\repos\kik\kik\kik.cpp(1355,19): warning C4101: "lokacja": lokalna zmienna, do której nie istnieje odwołanie
+  kik.vcxproj -> C:\Users\Janusz\source\repos\kik\x64\Debug\kik.exe
